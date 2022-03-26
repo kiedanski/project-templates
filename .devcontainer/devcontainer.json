@@ -28,6 +28,8 @@
 		"ms-python.vscode-pylance",
 		"christian-kohler.path-intellisense"
 	],
+	"workspaceMount": "source=${localWorkspaceFolder}/,target=/home/worker/workspace,type=bind",
+	"workspaceFolder": "/home/worker/workspace",
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
 	// Use 'postCreateCommand' to run commands after the container is created.
