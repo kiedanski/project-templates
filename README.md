@@ -1,2 +1,1 @@
-# project-templates
-A collection of templates for a new projects
+# Visual Studio Code for Python development inside Docker
